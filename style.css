@@ -1,0 +1,5 @@
+body {background: white;}
+.product_title {color: green;}
+.producto_link {color: purple;text-decoration: underline;}
+.product_description {color: red;}
+#product_image {width: 500px;}
